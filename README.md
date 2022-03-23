@@ -12,3 +12,5 @@ Each card has a "question" side and an "answer" side. After reviewing a card, yo
 
 Read more about Anki [here](https://docs.ankiweb.net/background.html).
 
+## Contribute
+If you'd like to add a deck for another course, or if you'd like to improve the existing decks, feel free to reach out to me at yaniv.carmel@campus.technion.ac.il
